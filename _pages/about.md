@@ -38,8 +38,10 @@ Education
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li>
-      <span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span><br>
-      <a href='https://wsu.edu' target='_blank' style="color: #000000; text-decoration: none; font-weight: bold; padding-left: 20px; display: inline-block;">Washington State University</a> (2022 - present)
+      <span style="font-weight: bold; color: #008000;">Ph.D. in Educational Psychology![image](https://github.com/user-attachments/assets/0ddb51f4-7108-4f80-a501-efac6e5edbe5)
+</span><br>
+      <a href='https://wsu.edu' target='_blank' style="color: #000000; text-decoration: none; font-weight: bold; padding-left: 20px; display: inline-block;">Washington State University (WSU)- Pullman![image](https://github.com/user-attachments/assets/454ca1c9-cd25-409a-ac6d-5b806bfb1c3c)
+</a> (August 2019 - April 2024)
     </li>
     <!-- <li>
       <span style="font-weight: bold; color: #008000;">MS., Computer Science</span> <i class="fas fa-graduation-cap"></i><br>
