@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information 
-  avatar           : "Ola.jpg"
+  avatar           : "Ola2.jpg"
   name             : "Olasunkanmi J. Kehinde"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at <a href='https://www.ecsu.edu/' target='_blank'>Elizabeth City State University</a>"
