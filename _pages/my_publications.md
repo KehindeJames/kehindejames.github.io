@@ -42,7 +42,8 @@ Journal Papers
 ===
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ol>
-    <li>Oladugba, A. V.,<span style="font-weight: bold;"> Chibuike E. Ugwu </span>, and Onwuamaeze, U. C. (2023). Sensitivity and robustness of randomization test and F‐test in some experimental designs.<span style="font-style: italic;">Quality and Reliability Engineering International, 39(7), 2967-2974.
+    <li>Hayes, C. R.,<span style="font-weight: bold;"> Kehinde, O.J., </span>, Tumin, D and Jamison, S. D. (2024). Medical Home Access Among Children 
+with Obesity: The Role of Family-Centered Communication.<span style="font-style: italic;">Childhood Obesity.
 </span>
     </li>
   </ol>
