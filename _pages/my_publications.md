@@ -77,6 +77,35 @@ Peer-Reviewed Publications
   </ol>
 </div>
 
+Manuscript In Progress
+======
+<div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
+  <ol>
+    <li>Peine, B., …, Kehinde O.J., Tumin, D., …, & Akhter, S.A. (Revised & Submit). Clinical Value of Pre-CABG Myocardial Viability Assessment by Magnetic Resonance Imaging in Patients with Ischemic Cardiomyopathy. 
+    <span style="font-style: italic;">The Annals of Thoracic Surgery. Journal of Surgical Research</span>.
+    </li>
+    <li>Peine, B., …, Kehinde O.J., Tumin, D., …, & Akhter, S.A. (Revised & Submit). Clinical and Financial Impact of Cardiothoracic Fellow in Coronary Artery Bypass Grafting Surgery.
+    </li>
+    <li>Kehinde, O.J., Tumin, D., Akpan, U., & Naylor, M. (Under Review). Risk and causes of early mortality among extremely preterm infants born small for gestational age. 
+    <span style="font-style: italic;">American Journal of Perinatology</span>.
+    </li>
+    <li>Kehinde, O.J., Dai, S., & French, B.F. (Under Review). Application of Multilevel Modeling in Large-scale Assessments: A Systematic Review. 
+    <span style="font-style: italic;">Journal of Psychoeducational Assessment</span>.
+    </li>
+    <li>Walls, J., Kehinde, O.J., Mayeaux, A., Comeaux, A. (Under Review). The Mediating Role of Decisional Capital on the Relationship between Professional Community and Efficacy for Novice Teachers. 
+    <span style="font-style: italic;">International Journal of Educational Management</span>.
+    </li>
+    <li>Kehinde, O.J., Wu, M., Brown, T., & Davey, T. (In progress). Comparing IRT Calibration Approaches for MST with Subscales.
+    </li>
+    <li>Mojoyinola, M.O., Kehinde, O.J., & Geraldo Padilla (In progress). Assessing the Comparability of High-Stakes Test Scores Under Equating and Nonequating Strategies.
+    </li>
+    <li>Kehinde, O.J., Dai, S., & French, B.F. (In Progress). Application of text mining for the motivational-developmental assessment for university students.
+    </li>
+    <li>Demir, Cihan, Kehinde, O.J., Dai, S., & French, B.F. (In Progress). Automated Content Scoring for Motivational-Developmental Assessment.
+    </li>
+  </ol>
+</div>
+
 Conference Papers
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
