@@ -43,14 +43,9 @@ Peer-Reviewed Publications
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ol>
     <li>Hayes, C. R.,<span style="font-weight: bold;"> Kehinde, O.J., </span>, Tumin, D and Jamison, S. D. (2024). Medical Home Access Among Children 
-with Obesity: The Role of Family-Centered Communication. <span style="font-style: italic;">Childhood Obesity</span> 
+    with Obesity: The Role of Family-Centered Communication. <span style="font-style: italic;">Childhood Obesity</span> 
     (<a href="https://www.liebertpub.com/doi/10.1089/chi.2024.0303">Link</a>).
     </li>
-  </ol>
-</div>
-
-<div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
-  <ol>
     <li>Ezeh, C.C. & Kehinde, O.J. (2024). Promising Practices for Adapting Culturally Relevant Assessment: A Systematic Review. 
     <span style="font-style: italic;">Journal of Diaspora, Indigenous, Minority Education</span>. 
     <a href="https://doi.org/10.1080/15595692.2024.2341930">https://doi.org/10.1080/15595692.2024.2341930</a>
