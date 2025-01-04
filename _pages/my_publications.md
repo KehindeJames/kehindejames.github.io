@@ -49,6 +49,15 @@ with Obesity: The Role of Family-Centered Communication. <span style="font-style
   </ol>
 </div>
 
+<div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
+  <ol>
+    <li>Ezeh, C.C. & Kehinde, O.J. (2024). Promising Practices for Adapting Culturally Relevant Assessment: A Systematic Review. 
+    <span style="font-style: italic;">Journal of Diaspora, Indigenous, Minority Education</span>. 
+    <a href="https://doi.org/10.1080/15595692.2024.2341930">https://doi.org/10.1080/15595692.2024.2341930</a>
+    </li>
+  </ol>
+</div>
+
 
 Conference Papers
 ======
